@@ -2,8 +2,10 @@
 Final Project for Real Time Embedded Systems Course:
 Advanced optimization of ADC I/O using Direct Memory Access
 
-*Software: Code Composer Studio and TI-RTOS
-*Hardware: TI EK-TM4C1294XL, TI BOOSTXL-EDUMKII and jumper wires
+Software: Code Composer Studio and TI-RTOS
+
+Hardware: TI EK-TM4C1294XL, TI BOOSTXL-EDUMKII and jumper wires
+
 CCS Project settings and debug files not included
 
 Joystick Select : play audio 
